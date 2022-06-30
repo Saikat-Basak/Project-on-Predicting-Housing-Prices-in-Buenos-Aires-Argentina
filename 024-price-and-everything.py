@@ -21,8 +21,6 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import make_pipeline
 from sklearn.utils.validation import check_is_fitted
 
-warnings.simplefilter(action="ignore", category=FutureWarning)
-
 
 # ## Import
 
